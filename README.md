@@ -1,0 +1,2 @@
+# newoneapp
+new ai tech
