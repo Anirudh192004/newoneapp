@@ -1,2 +1,2 @@
-# newoneapp
-new ai tech
+# AI Based 
+Description will be added soon
